@@ -9,7 +9,7 @@ vector embedings are list of numbers [0.1,0.2,8.4]
 vector embeddings can be calculated for data,image and video
 TO make search faster the input data in indexed and search against the vector embeddings which is stored in the vector database.
 
-<img src="assets/VectorDatabase.png" alt="Alt text" width="300"/>
+<img src="VectorDatabase.png" alt="Alt text" width="300"/>
 
 
 # Use cases
